@@ -4,7 +4,7 @@
 ### Full Stack Developer 😎
 
 - 🔭 I’m currently working with Laravel, React Native, ReactJS, NestJS, USSD, etc.
-- 👯 I’m looking to collaborate on my project @wpboot 
+- 👯 I’m looking to collaborate on my project [@wpboot](https://github.com/topazdom/wpboot)
 
 [my Gist profile](https://gist.github.com/zaghadon/)
 
