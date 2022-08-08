@@ -1,6 +1,6 @@
 
 ## Hi I'm < Nzagha David Eze />  👋
-    - I work in the sweet spot for Innovation, somewhere between Strategy, Design and Technology. 
+    I work in the sweet spot for Innovation, somewhere between Strategy, Design and Technology. 
 ### Full Stack Developer 😎
 
 - 🔭 I’m currently working with Laravel, React Native, ReactJS, NestJS, USSD, etc.
@@ -34,10 +34,10 @@
     <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-    <img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
-    <img alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%2300ADD8.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img alt="React JS" src="https://img.shields.io/badge/React%20JS-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+    <img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img alt="Nest JS" src="https://img.shields.io/badge/Nest%20JS%20-%23313131.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
 ---
@@ -46,10 +46,10 @@
 
 <p align="center">
     <a href="https://github.com/zaghadon">
-        <img src="https://img.shields.io/github/followers/amir9480?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+        <img src="https://img.shields.io/github/followers/zaghadon?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
     <a href="https://twitter.com/Zaghadon">
-        <img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FZaghadon" alt="Twitter">
+        <img src="https://img.shields.io/twitter/url?logo=twitter&label=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FZaghadon" alt="Twitter">
     </a>
     <a href="mailto:zaghadon@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
