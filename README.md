@@ -8,10 +8,11 @@
 
 [my Gist profile](https://gist.github.com/zaghadon/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaghadon&count_private=true&show_icons=true&cache_seconds=1800&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaghadon&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<section align="center">
+    
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaghadon&count_private=true&show_icons=true&cache_seconds=1800&theme=vue)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaghadon&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+    
+</section>
 
 ---
 
