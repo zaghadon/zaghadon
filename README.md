@@ -14,6 +14,16 @@
     
 </section>
 
+[![zaghadon's GitHub | Stats](https://stats.quine.sh/zaghadon/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
+
+[![zaghadon's Stack Overflow | Stats](https://stats.quine.sh/zaghadon/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
+
+[![zaghadon's GitHub | Dependencies](https://stats.quine.sh/zaghadon/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
+
+[![zaghadon's GitHub | Topics Over Time](https://stats.quine.sh/zaghadon/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
+
+[![zaghadon's GitHub | Languages Over Time](https://stats.quine.sh/zaghadon/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
+
 ---
 
 <h2 align="center">Some Technologies I use, Non Exhaustive List</h2>
