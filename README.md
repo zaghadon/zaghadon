@@ -1,10 +1,9 @@
-
 ## Hi I'm < Nzagha David Eze />  👋
     I work in the sweet spot for Innovation, somewhere between Strategy, Design and Technology. 
 ### Full Stack Developer 😎
 
 - 🔭 I’m currently working with Laravel, React Native, ReactJS, NestJS, USSD, etc.
-- 👯 I’m looking to collaborate on my project [@wpboot](https://github.com/topazdom/wpboot)
+- 👯 I’m open to contributing and collaborating on Open Source.
 
 [my Gist profile](https://gist.github.com/zaghadon/)
 
@@ -14,13 +13,15 @@
     
 </section>
 
-<section align="center">
-    
-[![zaghadon's GitHub | Stats](https://stats.quine.sh/zaghadon/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
+<p align="center">
+  <a href="https://stats.quine.sh/zaghadon/github?theme=dark">
+    <img src="https://stats.quine.sh/zaghadon/github?theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://stats.quine.sh/zaghadon/stack-overflow?theme=dark">
+    <img src="https://stats.quine.sh/zaghadon/stack-overflow?theme=dark" alt="Stack Overflow Stats" />
+  </a>
+</p>
 
-[![zaghadon's Stack Overflow | Stats](https://stats.quine.sh/zaghadon/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
-
-</section>
 
 [![zaghadon's GitHub | Topics Over Time](https://stats.quine.sh/zaghadon/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
 
