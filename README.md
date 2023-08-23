@@ -14,10 +14,13 @@
     
 </section>
 
+<section align="center">
+    
 [![zaghadon's GitHub | Stats](https://stats.quine.sh/zaghadon/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
 
 [![zaghadon's Stack Overflow | Stats](https://stats.quine.sh/zaghadon/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
 
+</section>
 
 [![zaghadon's GitHub | Topics Over Time](https://stats.quine.sh/zaghadon/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
 
