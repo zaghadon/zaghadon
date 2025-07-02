@@ -5,7 +5,7 @@
 - 🔭 I’m currently working with Laravel, React Native, ReactJS, NestJS, USSD, etc.
 - 👯 I’m open to contributing and collaborating on Open Source.
 
-[my Gist profile](https://gist.github.com/zaghadon/)
+[My Gist Profile](https://gist.github.com/zaghadon/)
 
 <section align="center">
     
@@ -14,18 +14,18 @@
 </section>
 
 <p align="center">
-  <a href="https://stats.quine.sh/zaghadon/github?theme=dark">
-    <img src="https://stats.quine.sh/zaghadon/github?theme=dark" alt="GitHub Stats" />
+  <a href="https://stats.quira.sh/zaghadon/github?theme=dark">
+    <img src="https://stats.quira.sh/zaghadon/github?theme=dark" alt="GitHub Stats" />
   </a>
-  <a href="https://stats.quine.sh/zaghadon/stack-overflow?theme=dark">
-    <img src="https://stats.quine.sh/zaghadon/stack-overflow?theme=dark" alt="Stack Overflow Stats" />
+  <a href="https://stats.quira.sh/zaghadon/stack-overflow?theme=dark">
+    <img src="https://stats.quira.sh/zaghadon/stack-overflow?theme=dark" alt="Stack Overflow Stats" />
   </a>
 </p>
 
 
-[![zaghadon's GitHub | Topics Over Time](https://stats.quine.sh/zaghadon/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
+[![zaghadon's GitHub | Topics Over Time](https://stats.quira.sh/zaghadon/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zaghadon)
 
-[![zaghadon's GitHub | Languages Over Time](https://stats.quine.sh/zaghadon/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zaghadon)
+[![zaghadon's GitHub | Languages Over Time](https://stats.quira.sh/zaghadon/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zaghadon)
 
 ---
 
