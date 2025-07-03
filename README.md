@@ -13,6 +13,8 @@
     
 </section>
 
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=zaghadon&theme=vue&border_radius=20&card_width=500)](https://git.io/streak-stats)
+
 <p align="center">
   <a href="https://stats.quira.sh/zaghadon/github?theme=dark">
     <img src="https://stats.quira.sh/zaghadon/github?theme=dark" alt="GitHub Stats" />
